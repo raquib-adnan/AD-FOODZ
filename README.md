@@ -1,4 +1,4 @@
-# ad_foodz
+# AD-FOODZ
 
 A new Flutter project.
 
