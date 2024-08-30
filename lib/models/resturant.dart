@@ -52,7 +52,6 @@ class Resturant extends ChangeNotifier {
     ),
 
     //                                 non veg
-
     Food(
       name: "CHIKEN ROLL",
       description: "Its an non-veg roll",
@@ -136,51 +135,7 @@ class Resturant extends ChangeNotifier {
       ],
     ),
 
-    //                                desserts
-
-    // Food(
-    //   name: "Double Layer celebration cake",
-    //   description: "cake",
-    //   imagePath: "lib/assets/desserts/chococake.jpeg",
-    //   price: 600.00,
-    //   category: FoodCategory.desserts,
-    //   availableAddons: [
-    //     Addon(name: "candles", price: 10.00),
-    //   ],
-    // ),
-    // Food(
-    //   name: "CHOCO MOOSE",
-    //   description: "MOOSE",
-    //   imagePath: "lib/assets/desserts/moussecoco.jpeg",
-    //   price: 140.00,
-    //   category: FoodCategory.desserts,
-    //   availableAddons: [
-    //     Addon(name: "cherry topings", price: 20.00),
-    //   ],
-    // ),
-    // Food(
-    //   name: "Chocolate Half cake",
-    //   description: "cake",
-    //   imagePath: "lib\assets\desserts\multicake.jpg",
-    //   price: 300.00,
-    //   category: FoodCategory.desserts,
-    //   availableAddons: [
-    //     Addon(name: "candles", price: 10.00),
-    //   ],
-    // ),
-    // Food(
-    //   name: "VINILLA MOOSE",
-    //   description: "MOOSE",
-    //   imagePath: "lib\assets\desserts\hazelmousse.jpeg",
-    //   price: 130.00,
-    //   category: FoodCategory.desserts,
-    //   availableAddons: [
-    //     Addon(name: "cherry topings", price: 20.00),
-    //   ],
-    // ),
-
     //                                 drinks
-
     Food(
       name: "MANGO",
       description: "DRINK",
