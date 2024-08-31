@@ -1,6 +1,7 @@
 # AD-FOODZ
 
-A new Flutter project.
+My first app development project.
+A deliver app with Flutter..
 
 ## Getting Started
 
