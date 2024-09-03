@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//colors for the light theme
+
 ThemeData lightmode = ThemeData(
   colorScheme: const ColorScheme.light(
     inversePrimary: Color(
@@ -14,3 +16,5 @@ ThemeData lightmode = ThemeData(
         0xFFE65100), // Deep Orange for secondary elements, adding richness and warmth
   ),
 );
+
+
